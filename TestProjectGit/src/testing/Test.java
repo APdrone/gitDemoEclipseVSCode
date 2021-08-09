@@ -7,8 +7,9 @@ public class Test {
 		int data1=10;
 		int data2=20;
 		int data3=0;
+		int data4=0;
 		
-		System.out.println(data1*data2*data3);
+		System.out.println(data1*data2*data3+data4);
 	}
 
 }
